@@ -33,10 +33,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketM1996&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects
 - 🔹 **Spring Boot Microservices with Docker & Kubernetes**
