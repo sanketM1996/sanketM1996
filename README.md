@@ -8,7 +8,7 @@
 - 🌱 Learning **Kubernetes, AWS & Advanced CI/CD Pipelines**
 - ⚙️ Passionate about **Automation & Scalable Systems**
 - 💬 Ask me about **Docker, Jenkins, Kubernetes, AWS**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **sanketmahajan2496@gmail.com**
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanket-mahajan-56a812346/))
 
 ---
 
