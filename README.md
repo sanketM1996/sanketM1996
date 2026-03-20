@@ -26,12 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketM1996&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketM1996&layout=compact&theme=tokyonight)
-
----
 
 
 ## 🚀 Featured Projects
